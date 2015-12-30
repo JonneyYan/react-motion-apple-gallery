@@ -1,0 +1,5 @@
+{
+  "disallowQuotedKeysInObjects": false,
+  "validateLineBreaks": "CRLF",
+  "esnext": true
+}

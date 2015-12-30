@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+name	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "name": "react-motion-apple-gallery",$/;"	function	line:2
+version	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "description": "A React-Motion demo",$/;"	function	line:4
+main	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "main": "index.js",$/;"	function	line:5
+scripts	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "scripts": {$/;"	function	line:6
+test	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	function	line:7
+repository	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "repository": {$/;"	function	line:9
+type	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^    "type": "git",$/;"	function	line:10
+url	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^    "url": "git+https:\/\/github.com\/JonneyYan\/react-motion-apple-gallery.git"$/;"	function	line:11
+keywords	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "keywords": [$/;"	function	line:13
+author	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "author": "JYMax",$/;"	function	line:18
+license	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "license": "ISC",$/;"	function	line:19
+bugs	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "bugs": {$/;"	function	line:20
+url	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^    "url": "https:\/\/github.com\/JonneyYan\/react-motion-apple-gallery\/issues"$/;"	function	line:21
+homepage	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\package.json	/^  "homepage": "https:\/\/github.com\/JonneyYan\/react-motion-apple-gallery#readme"$/;"	function	line:23
+react-motion-apple-gallery	C:\cygwin64\home\PC-109540\react-motion-apple-gallery\README.md	/^# react-motion-apple-gallery$/;"	function	line:1
